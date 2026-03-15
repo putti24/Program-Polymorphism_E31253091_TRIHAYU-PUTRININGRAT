@@ -1,5 +1,12 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package E31253091_TRIHAYU_PUTRININGRAT;
-
+/**
+ *
+ * @author A D V A N
+ */
 public class Segitiga extends BangunDatar {
 
     double alas;
